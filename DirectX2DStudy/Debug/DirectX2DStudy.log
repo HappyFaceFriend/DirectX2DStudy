@@ -1,0 +1,5 @@
+﻿  winmain.cpp
+  DXApp.cpp
+d:\myfolder\gitprojects\directx2dstudy\directx2dstudy\src\dxapp.cpp(86): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+  DirectX2DStudy.vcxproj -> D:\MyFolder\GitProjects\DirectX2DStudy\Debug\DirectX2DStudy.exe
